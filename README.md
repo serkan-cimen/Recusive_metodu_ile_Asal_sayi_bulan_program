@@ -1,0 +1,2 @@
+# Recusive_metodu_ile_Asal_sayi_bulan_program
+Recusive_metodu_ile_Asal_sayi_bulan_program
